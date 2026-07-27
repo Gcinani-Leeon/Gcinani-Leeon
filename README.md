@@ -14,6 +14,8 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcinanileeon)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gcinanileeon?sub_confirmation=1)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Gcinani_leeon)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Gcinani_leeon)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gcinanileeon.xulu/)
+<br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://gcinani-leeon.github.io/)
 </div>
