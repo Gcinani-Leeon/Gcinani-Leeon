@@ -66,4 +66,9 @@ Please buy me a coffee here ⬇️ <br>
 ![Views](https://komarev.com/ghpvc/?username=Gcinani-Leeon&color=blue)
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:FF6B00&height=130&section=footer" width="100%" />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
