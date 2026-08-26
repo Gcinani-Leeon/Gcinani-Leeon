@@ -50,6 +50,12 @@
 🔝 Top Contributed Repo <br>
 ![](https://github-contributor-stats.vercel.app/api?username=Gcinani-Leeon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gcinani-Leeon/Gcinani-Leeon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gcinani-Leeon/Gcinani-Leeon/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gcinani-Leeon/Gcinani-Leeon/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 Please buy me a coffee here ⬇️ <br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Gxulu) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Gxulu) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/GXulu ) 
