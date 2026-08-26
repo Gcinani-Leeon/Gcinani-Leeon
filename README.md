@@ -50,6 +50,10 @@
 🔝 Top Contributed Repo <br>
 ![](https://github-contributor-stats.vercel.app/api?username=Gcinani-Leeon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<a href="https://github.com/Gcinani-Leeon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcinani-Leeon&layout=compact&theme=dark" alt="Gcinani-Leeon's Top Languages" />
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gcinani-Leeon/Gcinani-Leeon/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gcinani-Leeon/Gcinani-Leeon/output/github-contribution-grid-snake.svg">
