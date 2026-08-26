@@ -2,9 +2,6 @@
 
 # Gcinani Leeon 👨‍💻
 
-**Software Developer | `Python` | `C#` | `.NET` 🥷**
-
-
 <!-- GitHub Stats Card -->
 <a href="https://github.com/Gcinani-Leeon">
   <img src="https://readme-stats-github.pages.dev/api?username=Gcinani-Leeon&show_icons=true&theme=dark" alt="Gcinani's GitHub Stats" />
