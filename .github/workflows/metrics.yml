@@ -39,3 +39,12 @@ jobs:
           # Plugin: Isometric Calendar (The green 3D blocks!)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # This pushes the finished SVG to a branch called "output"
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: metrix
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
