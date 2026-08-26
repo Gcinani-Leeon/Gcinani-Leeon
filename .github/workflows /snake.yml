@@ -1,28 +1,31 @@
-name: Generate Contribution Snake
+name: Generate Snake Animation
 
+# This is the trigger we discussed! 
+# It runs automatically at midnight, OR you can click the manual button.
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      - uses: Platane/snk/svg-only@v3
+      # This is the "Robot" that builds the snake SVG
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      # This pushes the finished SVG to a branch called "output"
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
