@@ -33,5 +33,3 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           
-          # 4. FORCE THE ROBOT TO READ GROUP OR FORKED REPOSITORIES
-          plugin_languages_indepth_custom: WandileOnTheHub/SmokinJoes
