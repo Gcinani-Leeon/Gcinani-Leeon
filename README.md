@@ -6,7 +6,7 @@ I am an undergraduate student pursuing a Diploma in ICT in Applications Developm
 
 ---
 
-###Technical Stack
+### Technical Stack
 
 **Languages:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -24,14 +24,14 @@ I am an undergraduate student pursuing a Diploma in ICT in Applications Developm
 
 ---
 
-###Current Focus & Highlights
+### Current Focus & Highlights
 
 *   🏆 **FNB App Academy:** Recently enrolled to the the full-stack development course.
 *   ☁️ **Cloud Deployment:** Developing mobile and web UI components for the SmokinJoes project and managing its live deployment on Microsoft Azure.
 
 ---
 
-###Let's Connect
+### Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit_Live_Site-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://gcinani-leeon.github.io/)
 
